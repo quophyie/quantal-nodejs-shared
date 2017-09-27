@@ -3,7 +3,7 @@
  */
 module.exports = {
   aspects: {
-    LoggerAspect: require('./lib/aspects/LoggerAspects')
+    LoggerAspect: require('./dist/lib/aspects/LoggerAspects')
   },
   dto: {
     LogObject: require('./lib/dto/logobject/index')
