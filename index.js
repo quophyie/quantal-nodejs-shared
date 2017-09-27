@@ -1,7 +1,7 @@
 /**
  * Created by dman on 27/09/2017.
  */
-modules.exports = {
+module.exports = {
   aspects: {
     LoggerAspect: require('./lib/aspects/LoggerAspects')
   },
