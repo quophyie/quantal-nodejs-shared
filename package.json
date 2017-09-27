@@ -2,7 +2,9 @@
   "name": "quantal-nodejs-shared",
   "version": "0.0.1",
   "dependencies": {
-    "app-root-path": "^2.0.1"
+    "app-root-path": "^2.0.1",
+    "aspect.js": "^0.5.1",
+    "quantal-errors": "0.0.12"
   },
   "devDependencies": {
     "babel": "^6.23.0",
