@@ -8,5 +8,8 @@ module.exports = {
   dto: {
     LogObject: require('./lib/dto/logobject/index')
   },
-  events: require('./lib/events/index')
+  events: require('./lib/events/index'),
+  middleware: {
+    MdcPopulator: require('./lib/middleware').MdcPopulator
+  }
 }
