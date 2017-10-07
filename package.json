@@ -1,6 +1,6 @@
 {
   "name": "quantal-nodejs-shared",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "dependencies": {
     "add": "^2.0.6",
     "app-root-path": "^2.0.1",
