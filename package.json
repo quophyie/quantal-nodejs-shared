@@ -5,6 +5,7 @@
     "add": "^2.0.6",
     "app-root-path": "^2.0.1",
     "aspect.js": "^0.5.1",
+    "create-error": "^0.3.1",
     "debug": "^3.1.0",
     "quantal-errors": "0.0.12"
   },
