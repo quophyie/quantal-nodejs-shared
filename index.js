@@ -11,5 +11,6 @@ module.exports = {
   events: require('./lib/events/index'),
   middleware: {
     MdcPopulator: require('./lib/middleware').MdcPopulator
-  }
+  },
+  serializers: require('./lib/bunyan/serializers')
 }
