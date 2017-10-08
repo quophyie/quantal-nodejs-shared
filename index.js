@@ -12,5 +12,5 @@ module.exports = {
   middleware: {
     MdcPopulator: require('./lib/middleware').MdcPopulator
   },
-  serializers: require('./lib/bunyan/serializers')
+  serializers: require('./lib/bunyan/serializers').serializers
 }
